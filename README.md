@@ -1,6 +1,7 @@
 # MemoryCardGame
 MemoryCardGame made using Ulkit + Core Data
 
-![Simulator Screenshot - iPhone Xʀ - 2025-04-09 at 12 07 37](https://github.com/user-attachments/assets/c972f6ee-4825-4028-b60a-1a8e7a5e44ff)
-![Simulator Screenshot - iPhone Xʀ - 2025-04-09 at 12 07 57](https://github.com/user-attachments/assets/29d3470c-c2c0-4e13-b559-4c5069e579f1)
+<img width="309" alt="Screenshot 2025-04-09 at 12 12 46 pm" src="https://github.com/user-attachments/assets/28a53a3e-3630-412a-acbd-c69393c9f83d" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/5b510e1a-dd40-4052-ac2e-4b9afc9b5eeb" />
+
 
